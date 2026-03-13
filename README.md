@@ -1,4 +1,4 @@
-# Diabetes Risk Assistant
+# Diabetes Risk Predictor
 
 An interactive Machine Learning dashboard built with Python and PyQt5. This application allows users to input health metrics and receive a diabetes risk assessment using multiple trained models.
 
