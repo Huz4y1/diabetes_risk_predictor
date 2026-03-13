@@ -1,6 +1,6 @@
 # Diabetes Risk Predictor
 
-An interactive Machine Learning dashboard built with Python and PyQt5. This application allows users to input health metrics and receive a diabetes risk assessment using multiple trained models.
+A binary classification machine learning model, which predicts if a person is at risk of getting diabetes
 
 ## Features
 - **Multi-Model Prediction:** Switch between Logistic Regression, Random Forest, and Gradient Boosting models.
@@ -17,10 +17,13 @@ An interactive Machine Learning dashboard built with Python and PyQt5. This appl
 ## Installation
 
 1. Clone this repository:
-   "git clone https://github.com/Huz4y1/health_risk_predictor.git"
+   "git clone https://github.com/Huz4y1/diabetes_risk_predictor.git"
 
 2. Install the required dependencies:
    "pip install -r requirements.txt"
 
 3. Run the application using Python:
    "python main.py"
+
+## Video Showcase
+![DiabetesAI_showcase](https://github.com/user-attachments/assets/58470232-bd14-4219-bcf6-43deac91a784)
