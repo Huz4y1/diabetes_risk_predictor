@@ -27,3 +27,6 @@ A binary classification machine learning model, which predicts if a person is at
 
 ## Video Showcase
 ![DiabetesAI_showcase](https://github.com/user-attachments/assets/58470232-bd14-4219-bcf6-43deac91a784)
+
+## Data Set Used
+https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
