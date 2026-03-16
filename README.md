@@ -25,6 +25,11 @@ A binary classification machine learning model, which predicts if a person is at
 3. Run the application using Python:
    "python main.py"
 
+
+## Media
+![d_gui](https://github.com/user-attachments/assets/8bb67a0d-c44c-4cae-8f47-950a6cb2952d)
+
+
 ## Video Showcase
 ![DiabetesAI_showcase](https://github.com/user-attachments/assets/58470232-bd14-4219-bcf6-43deac91a784)
 
